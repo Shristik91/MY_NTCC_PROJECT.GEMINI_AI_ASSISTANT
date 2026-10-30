@@ -105,7 +105,7 @@ The application provides a chat-based interface where users can enter prompts an
 
 👩‍💻 Author
 
-Your Name
+shristi kumari
 
 B.Tech – Computer Science and Engineering (AI & ML)
 
